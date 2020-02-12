@@ -5,3 +5,9 @@ F. Naets, T. Devos, A. Humer, J. Gerstmayr: A non-invasive system-level model or
 flexible multibody simulation, International Journal of Numerical Methods in Engineering (2020).
 
 ![Four bar mechanism](FourBarModel.png)
+
+Besides the trivial 'ground' body, The system consists of three component model described by a Nastran compatible mesh file.
+
+## Connectivity overview
+
+
