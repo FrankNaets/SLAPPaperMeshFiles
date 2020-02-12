@@ -38,6 +38,6 @@ B3F4 at node 920.
 
 ### Joint overview
 All joints considered are revolute joints:
-
+B1F3-B2F1, B1F4-B2F2, B2F3-B3F3, B2F4-B3F4, G1_L-B1F1, G1_R-B1F2, G2_L-B3F1, G2_R-B3F2
 
 
