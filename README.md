@@ -1,4 +1,4 @@
-# SLAPPaperMeshFiles
+# SLAP Paper: Four-bar model description
 
 This directory contains the meshes (.bdf-files) and an interface description file for:
 F. Naets, T. Devos, A. Humer, J. Gerstmayr: A non-invasive system-level model order reduction scheme for
